@@ -38,8 +38,6 @@ export default function Carousel() {
         images[index].classList.remove('image-logo2')
     }
 
-
-
     return (
         <div id='containerCarousel__carousel'>
             <FlechaLeft evento={prevImage} />
