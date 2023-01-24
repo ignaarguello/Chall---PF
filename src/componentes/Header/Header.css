@@ -1,7 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400&display=swap');
+
 #container-general__header{
     /* border: 2px solid red; */
     width: 100%;
     display: flex;
     flex-direction: column;
     margin: 4rem 0;
+    gap: 1rem;
+}
+
+#titulo-challenge__header{
+    font-size: 1.9rem;
+}
+
+.texto-description__header{
+    font-size: 19px;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
