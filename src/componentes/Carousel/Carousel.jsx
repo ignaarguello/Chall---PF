@@ -47,7 +47,7 @@ export default function Carousel() {
             {
                 arrayImage.map(element =>
                     <div className="cardLogo_pf">
-                        <img className='image-logo' src={element} alt="" />
+                        <img className='image-logo' src={element} alt="Logo Pro Flight Enterprise" />
                     </div>
                 )
             }
