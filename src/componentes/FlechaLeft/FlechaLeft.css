@@ -4,5 +4,10 @@
     cursor: pointer;
     margin: 0 3rem;
     padding: 10px;
+    transition: .5s ease;
+}
+
+.flecha:hover{
+    transform: scale(1.1);
 }
 

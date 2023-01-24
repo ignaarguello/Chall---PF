@@ -24,5 +24,9 @@
 
 .image-logo2{
     opacity: 1;
-    border-radius: 30px 0px 30px 0px;
+    border-radius: 50px 0px 50px 0px;
+}
+
+.hola{
+    background-color: brown;
 }
