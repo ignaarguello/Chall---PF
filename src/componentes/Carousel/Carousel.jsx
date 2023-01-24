@@ -31,6 +31,7 @@ export default function Carousel() {
     const prevImage = () => {
         setIndex(index - 1)
         { index === 0 ? setIndex(arrayImage.length - 1) : console.log('') }
+        { index === arrayImage.length - 1 ? images[0].classList.remove('image-logo2') : console.log('') }
         images[index].classList.remove('image-logo2')
         console.log('index prev', index)
     }
