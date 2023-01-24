@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400&display=swap');
+
 .App {
   text-align: center;
   width: 100%;
   height: 95vh;
   display: flex;
   flex-direction: column;
+}
+
+#titulo-footer{
+  color: rgb(66, 65, 65);
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 19px;
+  margin-top: 5rem;
+  letter-spacing: .5px;
 }
 

@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Header/>
       <Carousel />
+      <h2 id='titulo-footer'>Desarrollador: - Argüello Ignacio -</h2>
     </div>
   );
 }
