@@ -1,32 +1,32 @@
-#containerCarousel__carousel{
-    width: 100%;
-    height: 35%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+#containerCarousel__carousel {
+  width: 100%;
+  height: 35%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-.cardLogo_pf{
-    width: 20%;
+.cardLogo_pf {
+  width: 20%;
 }
 
-.animation_scale{
-    transition: .7s ease;
-    transform: scale(1.1);
+.animation_scale {
+  transition: 0.7s ease;
+  transform: scale(1.1);
 }
 
-.image-logo{
-    object-fit: cover;
-    width: 65%;
-    border-radius: 15px;
-    opacity: 0.3;
+.image-logo {
+  object-fit: cover;
+  width: 65%;
+  border-radius: 15px;
+  opacity: 0.3;
 }
 
-.image-logo2{
-    opacity: 1;
-    border-radius: 50px 0px 50px 0px;
+.image-logo2 {
+  opacity: 1;
+  border-radius: 50px 0px 50px 0px;
 }
 
-.hola{
-    background-color: brown;
+.hola {
+  background-color: brown;
 }

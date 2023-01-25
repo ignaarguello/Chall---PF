@@ -4,7 +4,6 @@ import FlechaLeft from '../FlechaLeft/FlechaLeft'
 import FlechaRight from '../FlechaRight/FlechaRight'
 import { useState, useEffect, useLayoutEffect } from 'react'
 
-
 export default function Carousel() {
     let [index, setIndex] = useState(0)
     let images = document.querySelectorAll('.image-logo')
