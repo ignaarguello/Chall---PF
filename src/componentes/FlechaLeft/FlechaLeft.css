@@ -7,7 +7,6 @@
     transition: .5s ease;
 }
 
-
 .flecha:hover{
     transform: scale(1.1);
 }

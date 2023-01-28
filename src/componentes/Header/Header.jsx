@@ -2,7 +2,6 @@ import React from 'react'
 import './Header.css'
 import 'animate.css';
 
-
 export default function Header() {
   return (
     <div id='container-general__header'>
